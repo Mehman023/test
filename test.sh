@@ -7,3 +7,4 @@ then
 else
  echo ERROR > /var/log/check.log
 fi
+hello word
